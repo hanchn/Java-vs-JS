@@ -8,9 +8,9 @@ Differences between the two programming languages Java and JavaScript. (Java vs 
 
 - [强类型与弱类型](./reference/03.md)
 
-- [编译型语言和解释型语言](./reference/02.md)
+- [编译型语言和解释型语言](./reference/04.md)
 
-- [常用IDE介绍](./reference/03.md)
+- [Java常用IDE介绍](./reference/05.md)
 
 - [写一个Class](./reference/04.md)
 
