@@ -4,9 +4,7 @@ Differences between the two programming languages Java and JavaScript. (Java vs 
 
 - [Java和JavaScript的关系](./reference/01.md)
 
-- [JEE、JSE、JME](./reference/02.md)
-
-- [JVM、JDK、JEE](./reference/03.md)
+- [Java语言和工具介绍](./reference/02.md)
 
 - [强弱类型语言比较](./reference/01.md)
 
