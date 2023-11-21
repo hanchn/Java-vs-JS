@@ -10,7 +10,7 @@ Differences between the two programming languages Java and JavaScript. (Java vs 
 
 - [JME、JEE、JSE](./reference/03.md)
 
-- [JVM、JDK](./reference/03.md)
+- [JVM、JDK、JEE](./reference/03.md)
 
 - [常用IDE介绍](./reference/03.md)
 
@@ -26,9 +26,9 @@ Differences between the two programming languages Java and JavaScript. (Java vs 
 
 - [类型](./reference/09.md)
 
-- [对象中的变量与常量](./reference/10.md)
+- [变量与常量](./reference/10.md)
 
-- [对象中的属性定义](./reference/11.md)
+- [静态属性](./reference/11.md)
 
 - [Java访问控制修饰符](./reference/12.md)
 
