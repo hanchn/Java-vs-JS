@@ -34,6 +34,8 @@ Differences between the two programming languages Java and JavaScript. (Java vs 
 
 - [面向对象的三大特性](./reference/13.md)
 
+- [设计模式](./reference/13.md)
+
 
 
 
