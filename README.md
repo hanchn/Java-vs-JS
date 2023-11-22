@@ -14,19 +14,15 @@ Differences between the two programming languages Java and JavaScript. (Java vs 
 
 - [写一个Class](./reference/06.md)
 
-- [函数](./reference/07.md)
+- [函数与构造函数](./reference/07.md)
 
-- [主函数的意义是什么？](./reference/06.md)
-
-- [构造函数](./reference/07.md)
+- [静态属性](./reference/08.md)
 
 - [对象与实例化](./reference/08.md)
 
 - [类型](./reference/09.md)
 
 - [变量与常量](./reference/10.md)
-
-- [静态属性](./reference/11.md)
 
 - [Java访问控制修饰符](./reference/12.md)
 
