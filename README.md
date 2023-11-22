@@ -20,9 +20,9 @@ Differences between the two programming languages Java and JavaScript. (Java vs 
 
 - [对象与实例化](./reference/09.md)
 
-- [类型](./reference/09.md)
+- [类型](./reference/10.md)
 
-- [变量与常量](./reference/10.md)
+- [变量与常量](./reference/11.md)
 
 - [Java访问控制修饰符](./reference/12.md)
 
