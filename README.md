@@ -18,7 +18,7 @@ Differences between the two programming languages Java and JavaScript. (Java vs 
 
 - [静态属性](./reference/08.md)
 
-- [对象与实例化](./reference/08.md)
+- [对象与实例化](./reference/09.md)
 
 - [类型](./reference/09.md)
 
