@@ -24,11 +24,10 @@ Differences between the two programming languages Java and JavaScript. (Java vs 
 
 - [变量与常量](./reference/11.md)
 
-- [Java访问控制修饰符](./reference/12.md)
+- [Java访问控制修饰符](./reference/14.md)
 
-- [面向对象的三大特性](./reference/13.md)
+- [面向对象的三大特性](./reference/15.md)
 
-- [设计模式](./reference/13.md)
 
 
 
